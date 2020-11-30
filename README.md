@@ -5,3 +5,11 @@ Please note that while this code exist, i would like a bit of credit taken place
 Otherwise feel free to fork, modify or do whatever :)
 
 Happy hacking
+
+# To Do List
+
+[_] - Write Basic Structure
+[_] - Prepare the Database Structure
+[_] - Write the commands
+[_] - Prepair Utils
+[_] - Connect to Test Trello Board
