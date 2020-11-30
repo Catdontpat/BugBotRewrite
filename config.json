@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "trello": "",
+    "ttoken": "",
+
+    "delayS": "6",
+    "mindelay": "60",
+    "max": "120",
+    "twohrs": "7200",
+    "backup": "6",
+
+    "approve": "3",
+    "deny": "3",
+
+    "repro": "5",
+    "phrase": "tomato"
+}
