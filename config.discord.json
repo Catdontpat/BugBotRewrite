@@ -1,0 +1,38 @@
+{
+    "botID": "",
+    "serverID": "",
+
+    "channels": {
+        "ios": "",
+        "android": "",
+        "desktop": "",
+        "modlog": "",
+        "hunterch": "",
+        "queue": "",
+        "denied": "",
+        "all": "",
+        "charter": ""
+    },
+
+    "roles": {
+        "dev": "",
+        "hunter": "",
+        "admin": "",
+        "androidr": "",
+        "iosr": "",
+        "desktopr": "",
+        "trellom": "",
+        "fake": ""
+    },
+
+    "cards": {
+        "iosCard": "",
+        "androidCard": "",
+        "desktopCard": ""
+    },
+
+    "emotes": {
+        "greentick": "312314752711786497",
+        "redtick": "312314733816709120"
+    }
+}
