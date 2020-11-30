@@ -8,8 +8,8 @@ Happy hacking
 
 # To Do List
 
-[_] - Write Basic Structure
-[_] - Prepare the Database Structure
-[_] - Write the commands
-[_] - Prepair Utils
-[_] - Connect to Test Trello Board
+[ ] - Write Basic Structure
+[ ] - Prepare the Database Structure
+[ ] - Write the commands
+[ ] - Prepair Utils
+[ ] - Connect to Test Trello Board
