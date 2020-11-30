@@ -1,0 +1,26 @@
+{
+  "name": "bugbotrewrite",
+  "version": "1.0.0",
+  "description": "a bug bot rewrite of the old bug bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Catdontpat/BugBotRewrite.git"
+  },
+  "author": "catdontpat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Catdontpat/BugBotRewrite/issues"
+  },
+  "homepage": "https://github.com/Catdontpat/BugBotRewrite#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.10.18",
+    "ms": "^2.1.2",
+    "node-trello": "^1.3.0"
+  }
+}
